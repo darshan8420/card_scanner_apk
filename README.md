@@ -1,4 +1,4 @@
-# passport_reader_app
+# card_scanner_apk
 
 A new Flutter project.
 
